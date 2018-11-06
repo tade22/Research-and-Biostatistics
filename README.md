@@ -1,2 +1,2 @@
 # Biostatistics
-Teaching materials and references materials on research and biostatistics 
+Teaching materials, dataset, R codes and references materials are included here 
